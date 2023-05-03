@@ -193,7 +193,7 @@ public class StartProgram {
 		return;
 	}
 	
-	// method that prints the Linked List
+	// method that prints the top entry in the Priority Queue
 	private static void viewSchedule() {
 		System.out.println("\nNext Customer:");
 		System.out.println(priorityQueue.peek());
